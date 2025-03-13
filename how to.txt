@@ -1,2 +1,3 @@
+this is backend side of social media website, using REST-API with MongoDB
 install mongoose, dotenv, helmet, morgan npm packages before starting using this code
 change the .env file contents in to the database source you use
